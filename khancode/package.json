@@ -1,0 +1,9 @@
+{
+  "name": "khancode",
+  "version": "0.0.0",
+  "description": "khancode",
+  "main": "server.js",
+  "author": {
+    "name": "field"
+  }
+}
